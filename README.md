@@ -26,4 +26,4 @@
 2. Setelah terhubung ,pasang kabel jumper wires male to female seperti yang telah kami siapkan diatas.
 3. Jika sudah terpasang ,hubungkan kabel jumper tadi ke Arduino uno dan jangan sampai terbalik antara VCC ke (+5V) Arduino ,GND ke GND Arduino ,dan PO ke  pin Analog pada A0 Arduino (pin analog dapat diganti sesuai keinginan). (untuk rangkaian lebih jelasnya bisa anda lihat pada file rangkaian di atas)
 
-PASTIKAN SEMUA KABEL TELAH TERHUBUNG DENGAN BENAR DAN JANGAN SAMPAI ADA YANG SALAH DALAM PEMASANGAN.JIKA DALAM PEMASANGAN KABEL ADA YANG SALAH ,KEMUNGKINAN SALAH SATU ALAT ANDA AKAN RUSAK DAN ANDA AKAN MENYESAL.
+PASTIKAN SEMUA KABEL TELAH TERHUBUNG DENGAN BENAR DAN JANGAN SAMPAI ADA YANG SALAH DALAM PEMASANGANnya ><
